@@ -31,7 +31,7 @@
 		],
 		"typeProperties": {
 			"schema": "dbo",
-			"table": "empdetails"
+			"table": "details1"
 		}
 	},
 	"type": "Microsoft.DataFactory/factories/datasets"

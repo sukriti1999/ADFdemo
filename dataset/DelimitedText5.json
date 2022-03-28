@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "dept.csv",
+				"fileName": "countrydetails.csv",
 				"folderPath": "input",
 				"container": "adfcon"
 			},
